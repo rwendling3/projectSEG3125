@@ -1,0 +1,86 @@
+.nav-item {
+  color: #88929c;
+  text-decoration: none;
+}
+
+.nav-item-active,
+.call {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.navbar-bottom {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.nav-item:hover {
+  color: #a7c7e7;
+  text-decoration: none;
+}
+
+.navbar-bottom:hover {
+  color: #a7c7e7;
+  text-decoration: none;
+}
+
+.nav-item-active:hover {
+  color: #a7c7e7;
+  text-decoration: none;
+}
+
+.specialists {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+h1 {
+  color: #23262a;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  color: #23262a;
+  font-family: sans-serif;
+  font-size: large;
+  padding-bottom: 25px;
+}
+
+.home-description {
+  padding-top: 50px;
+}
+
+.navbar {
+  padding-left: 10px;
+  padding-right: 100px;
+}
+
+.header {
+  float: left;
+  padding-left: 50px;
+  width: 100%;
+  background-color: #a7c7e7;
+}
+
+.info {
+  background-color: #a7c7e7;
+  height: 100%;
+}
+
+.rates {
+  background-color: aliceblue;
+  padding-top: 50px;
+  padding-left: 50px;
+  width: 80%;
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-right: 110px;
+  text-align: center;
+}
+
+.button-class {
+  padding-top: 50px;
+  text-align: center;
+}
